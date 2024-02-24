@@ -1,0 +1,45 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#logo{
+    width: 60px;
+    height: 60px;
+}
+
+.container{
+    background: linear-gradient(to bottom,#efddd9,#deb9b1);
+    width:500px;
+    height:550px;
+    margin:auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+
+}
+
+#input_box{
+    width:400px;
+    height:200px;
+    color:black;
+
+}
+
+#submit{
+    margin: 25px;
+
+}
+.horizontal-list {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+.horizontal-list li {
+    display: inline-block; 
+    margin-right: 30px;
+    margin-left: 30px; 
+}
