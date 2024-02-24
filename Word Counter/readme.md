@@ -1,8 +1,8 @@
 # Word Counter App
 
 The Word Counter app is a simple web application that allows users to input text and count the number of characters, words, and sentences in the text.
-![Before]()
-![After]()
+![Before](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Word%20Counter/Before.PNG)
+![After](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Word%20Counter/After.PNG)
 ## Features
 
 - Input text area: Users can input text in a textarea element.
