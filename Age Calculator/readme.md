@@ -2,9 +2,9 @@
 
 Welcome to the Age Calculator project! This project is a simple web application that calculates a person's age based on their birthdate.
 
-![Alt Text](Image URL)
+![Before submission](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Age%20Calculator/Before.png)
 
-![Alt Text](Image URL)
+![After submission](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Age%20Calculator/After.png)
 
 ## Overview
 
