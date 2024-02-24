@@ -12,6 +12,7 @@ Welcome to the Mini Projects repository! This repository contains a collection o
 ## Project List
 
 1. **Age calculator app**: A simple age calculator application based on the birthdate provided by users.
+2. **Word counter app**: The Word Counter app is a simple web application that allows users to input text and count the number of characters, words, and sentences in the text.
 
 Feel free to explore and try out these projects to enhance your skills and creativity!
 
