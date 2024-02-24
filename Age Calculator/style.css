@@ -1,0 +1,43 @@
+*{
+    color:whitesmoke;
+    margin:2%;
+    align-items:center;
+    justify-content:center;
+    font-family:cursive;
+
+}
+
+.prime{
+    display:flex;
+    
+    width:500px;
+    margin:auto;
+    margin: top 5px;
+    margin-bottom:5%;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    background-color:darkslateblue;
+    color:white;
+    padding:5% 0%;
+    border-radius: 10px;
+}
+
+#display_age{
+    visibility: hidden;
+    color: whitesmoke;
+    margin: 5px;
+    margin: auto;
+}
+
+#button{
+    color: black;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100px;
+}
+
+#input_dob{
+    color:black;
+    padding: 2%;
+}
