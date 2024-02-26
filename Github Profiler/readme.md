@@ -1,6 +1,8 @@
 # GitHub Profiler
 
 GitHub Profiler is a simple web application that allows users to search for GitHub users and view their profiles.
+![Before](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Github%20Profiler/Before.png)
+![After](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Github%20Profiler/After.png)
 
 ## Features
 
