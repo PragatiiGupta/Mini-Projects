@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Github Profiler
+        </title>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body class="container">
+            <div class="main">
+                    <div class="search_card">
+                    <input
+                     type="text"
+                     name=""
+                     id="input_box"
+                     placeholder="Enter Github UserName"
+                    />
+                    <button id="search" onclick="getUser()">Search User</button>
+                    </div>
+                
+                   <div class="profile-card">
+                    <div class="main-info">
+                     <img src="github-logo.png" alt="avatar" id="prof_img" />
+                     <span class="name" id="name">Name</span>
+                     <a href="" id="username"></a>
+                    </div>
+                    <div class="bio">
+                     <p id="bio">Company</p>
+                     <p><span id="repo"></span> Repositories</p>
+                    </div>
+                    <div class="follow">
+                     <div class="followers">
+                      <span class="no" id="followers"></span>
+                      Followers
+                     </div>
+                     <div class="following">
+                      <span class="no" id="following"></span>
+                      Following
+                     </div>
+                    </div>
+                   </div>
+            </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
