@@ -14,6 +14,7 @@ Welcome to the Mini Projects repository! This repository contains a collection o
 1. **Age calculator app**: A simple age calculator application based on the birthdate provided by users.
 2. **Word counter app**: The Word Counter app is a simple web application that allows users to input text and count the number of characters, words, and sentences in the text.
 3. **GitHub Profiler**: GitHub Profiler is a simple web application that allows users to search for GitHub users and view their profiles.
+4. **Zoom Image on Scroll**: This project implements a zoomable image feature that activates when the user scrolls the mouse over the image. It allows users to zoom in and out of the image using the scroll wheel.
 
 ## Features
 
