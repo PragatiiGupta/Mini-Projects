@@ -3,9 +3,9 @@ Zoom Image on Scroll
 Description
 This project implements a zoomable image feature that activates when the user scrolls the mouse over the image. It allows users to zoom in and out of the image using the scroll wheel.
 
-![Before]()
+![Before](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Zoom%20on%20Scroll/Before.png)
 
-![After]()
+![After](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Zoom%20on%20Scroll/After.png)
 
 Features
 Zoom in and out of the image using the mouse scroll wheel.
