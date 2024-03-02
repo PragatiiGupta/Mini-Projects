@@ -2,8 +2,8 @@ Todo List App
 
 This is a simple Todo List application built using HTML, CSS, and JavaScript. It allows users to add items to a list and view them in a scrollable output area.
 
-![Before]()
-![After]()
+![Before](https://github.com/PragatiiGupta/Mini-Projects/blob/main/To-do%20List/Before.PNG)
+![After](https://github.com/PragatiiGupta/Mini-Projects/blob/main/To-do%20List/After.PNG)
 
 Features
 Add new items to the list.
