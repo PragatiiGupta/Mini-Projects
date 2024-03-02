@@ -1,0 +1,58 @@
+#header {
+  color: chartreuse;
+}
+.container {
+  width : 600px;
+  height: 500px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px;
+
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 50px;
+  gap: 20px;
+}
+
+button {
+  font-size: large;
+  background-color: darkslategrey;
+  color: aliceblue;
+  border-radius: 7%;
+}
+
+
+#input {
+  width:220px;
+  height:25px;
+}
+
+#output {
+  width:220px;
+  height:350px;
+  border-radius: 5%;
+  background-color: papayawhip;
+  color: black;
+  font-size: large;
+  padding:10px;
+}
+
+input {
+  font-size: large;
+
+}
