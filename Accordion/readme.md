@@ -1,7 +1,7 @@
 Accordion Component
 
 The Accordion component is a reusable React component that allows you to create collapsible sections of content, commonly used in UI designs to conserve space and organize information.
-![Alt Text]("https://github.com/PragatiiGupta/Mini-Projects/blob/main/Accordion/Screenshot.png")
+![Alt Text](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Accordion/Screenshot.png)
 
 Props
 The Accordion component accepts the following props:
