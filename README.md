@@ -16,6 +16,7 @@ Welcome to the Mini Projects repository! This repository contains a collection o
 3. **GitHub Profiler**: GitHub Profiler is a simple web application that allows users to search for GitHub users and view their profiles.
 4. **Zoom Image on Scroll**: This project implements a zoomable image feature that activates when the user scrolls the mouse over the image. It allows users to zoom in and out of the image using the scroll wheel.
 5. **To-do List**: This is a simple To-Do list application built using React. It allows users to add items to their to-do list and view them in a scrollable list format.
+6. **Accordion**:A simple accordion element using react.
 
 ## Features
 
