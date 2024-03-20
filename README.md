@@ -17,6 +17,7 @@ Welcome to the Mini Projects repository! This repository contains a collection o
 4. **Zoom Image on Scroll**: This project implements a zoomable image feature that activates when the user scrolls the mouse over the image. It allows users to zoom in and out of the image using the scroll wheel.
 5. **To-do List**: This is a simple To-Do list application built using React. It allows users to add items to their to-do list and view them in a scrollable list format.
 6. **Accordion**:A simple accordion element using react.
+7. **Color Selector**: A random color generator application based on react.
 
 ## Features
 
@@ -75,6 +76,3 @@ You can also customize and modify the projects according to your preferences or 
 
 Contributions are welcome! If you have ideas for new projects or improvements to existing ones, feel free to open an issue or submit a pull request. Please follow the contribution guidelines outlined in the repository.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
