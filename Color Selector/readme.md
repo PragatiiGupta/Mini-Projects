@@ -1,7 +1,7 @@
 Random Color Generator
 This is a simple React application that generates random colors on button click.
 
-![Alt-image]()
+![Alt-image](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Color%20Selector/Screenshot.jpg)
 
 Features
 Generates random colors from a predefined list.
