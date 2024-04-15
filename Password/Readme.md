@@ -2,8 +2,8 @@
 
 This is a simple React component that allows users to toggle the visibility of a password input field.
 
-(https://github.com/PragatiiGupta/Mini-Projects/blob/main/Password/Before.png)
-(https://github.com/PragatiiGupta/Mini-Projects/blob/main/Password/After.png)
+![Before](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Password/Before.png)
+![After](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Password/After.png)
 
 ## Installation
 
