@@ -18,31 +18,7 @@ Welcome to the Mini Projects repository! This repository contains a collection o
 5. **To-do List**: This is a simple To-Do list application built using React. It allows users to add items to their to-do list and view them in a scrollable list format.
 6. **Accordion**:A simple accordion element using react.
 7. **Color Selector**: A random color generator application based on react.
-
-## Features
-
-- Search for GitHub users by username.
-- View user profile information, including:
-  - Profile picture
-  - Name
-  - Username
-  - Company
-  - Number of repositories
-  - Number of followers
-  - Number of followings
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- GitHub API
-
-## Usage
-
-1. Enter a GitHub username in the search input field.
-2. Click the "Search User" button.
-3. The user's profile information will be displayed below.
+8. **PasswordToggler**: A simple password content toggler react app.
 
 ## How to Run Locally
 
