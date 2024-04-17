@@ -19,6 +19,7 @@ Welcome to the Mini Projects repository! This repository contains a collection o
 6. **Accordion**:A simple accordion element using react.
 7. **Color Selector**: A random color generator application based on react.
 8. **PasswordToggler**: A simple password content toggler react app.
+9. **ToolTip component**: The Tooltip component is a reusable React component that displays tooltips when users hover over certain elements, providing additional information or context.
 
 ## How to Run Locally
 
