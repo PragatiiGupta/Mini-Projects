@@ -2,8 +2,8 @@
 
 The Tooltip component is a reusable React component that displays tooltips when users hover over certain elements, providing additional information or context.
 
-![Before]
-![After]
+![Before](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Tool%20Tip/Before.png)
+![After](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Tool%20Tip/After.png)
 
 # Props
 The Tooltip component accepts the following props:
