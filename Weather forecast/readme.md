@@ -1,8 +1,8 @@
 Weather Data Display
 This project retrieves weather data from an external API and displays it on the screen.
 
-![Before]()
-![After]()
+![Before](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Weather%20forecast/Before.jpg)
+![After](https://github.com/PragatiiGupta/Mini-Projects/blob/main/Weather%20forecast/After.jpg)
 
 Features
 Weather Data Retrieval: The project uses the OpenWeatherMap API to fetch weather data based on user-provided location information.
