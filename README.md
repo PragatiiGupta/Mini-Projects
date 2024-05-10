@@ -20,6 +20,7 @@ Welcome to the Mini Projects repository! This repository contains a collection o
 7. **Color Selector**: A random color generator application based on react.
 8. **PasswordToggler**: A simple password content toggler react app.
 9. **ToolTip component**: The Tooltip component is a reusable React component that displays tooltips when users hover over certain elements, providing additional information or context.
+10. **Weather forecast**: Enter pincode and know the weather around you.
 
 ## How to Run Locally
 
